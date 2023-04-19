@@ -1,3 +1,3 @@
-int mait (){
+int main(){
  return 0;
 }
